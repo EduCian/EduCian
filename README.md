@@ -2,9 +2,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando na industria de celulose como operador
   
 - 🌱 Atualmente estou aprendendo Logíca da programação com JavaScript
